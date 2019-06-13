@@ -1,0 +1,4 @@
+require:
+  - wp-cli/browse-command.php
+@upcrowdagency.local.com:
+  ssh: vagrant:upcrowdagency.local.com:/var/www/html
